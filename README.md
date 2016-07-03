@@ -3,13 +3,13 @@ Is a 3D multiplayer racing game
 
 ## Hardware
 * Windows 10 or newer
-// TOOD edit here
+* // TOOD edit here
 
 
 ## authors
 
-Michael Pointner: 1427791@gmail.com
-Simon Reisinger: ippon1@riseup.net
+* Michael Pointner: 1427791@gmail.com
+* Simon Reisinger: ippon1@riseup.net
 
 
 ## known bugs and errors
