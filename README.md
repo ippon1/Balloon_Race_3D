@@ -2,7 +2,9 @@
 Is a 3D multiplayer racing game
 
 ## Hardware
+* Windows 10 or newer
 // TOOD edit here
+
 
 ## authors
 
