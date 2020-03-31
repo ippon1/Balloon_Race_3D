@@ -9,7 +9,7 @@ This project was created for the course [Computer Graics](https://www.cg.tuwien.
 
 ## authors
 
-* [Michael Pointner](http://michael.pointner.info/
+* [Michael Pointner](http://michael.pointner.info)
 * [Simon Reisinger](https://simonreisinger.com)
 
 
