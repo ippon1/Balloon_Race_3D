@@ -1,8 +1,9 @@
 # Balloon_Race_3D
-Is a 3D multiplayer racing game
+Is a 3D multiplayer racing game.
+This project was created for the course [Computer Graics](https://www.cg.tuwien.ac.at/courses/CG23/HallOfFame/) at the [TU Wien](https://www.tuwien.at). ([Hall of Fame](https://www.cg.tuwien.ac.at/courses/CG23/HallOfFame/2016/))
 
 ## Hardware
-* Windows 10 or newer
+* Windows 10
 * // TOOD edit here
 
 
