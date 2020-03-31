@@ -9,8 +9,8 @@ This project was created for the course [Computer Graics](https://www.cg.tuwien.
 
 ## authors
 
-* Michael Pointner: 1427791@gmail.com
-* Simon Reisinger: ippon1@riseup.net
+* [Michael Pointner](http://michael.pointner.info/
+* [Simon Reisinger](https://simonreisinger.com)
 
 
 ## known bugs and errors
