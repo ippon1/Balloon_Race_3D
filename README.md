@@ -7,7 +7,7 @@ This project was created for the course [Computer Graics](https://www.cg.tuwien.
 * // TOOD edit here
 
 
-## authors
+## Authors
 
 * [Michael Pointner](http://michael.pointner.info)
 * [Simon Reisinger](https://simonreisinger.com)
@@ -19,7 +19,7 @@ This project was created for the course [Computer Graics](https://www.cg.tuwien.
 HDR does not work on all computer
 * Adding Cubemap to repo
 
-## further features
+## Further features
 
 * Add sounds
 * Make home screen
