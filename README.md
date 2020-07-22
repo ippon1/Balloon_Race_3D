@@ -12,8 +12,14 @@ This project was created for the course [Computer Graics](https://www.cg.tuwien.
 * [Michael Pointner](http://michael.pointner.info)
 * [Simon Reisinger](https://simonreisinger.com)
 
+# Resources
+* [FreeGLUT](http://freeglut.sourceforge.net/)
+* [OpenGL Mathematics](https://glm.g-truc.net)
+* [PhysX](https://developer.nvidia.com/gameworks-physx-overview)
+* [Open Asset Import Library](https://www.assimp.org/)
+* [OpenGL Extension Wrangler Library](http://glew.sourceforge.net/)
 
-## known bugs and errors
+## Known bugs and errors
 
 * Die Controls sind sehr schwerfällig bis unspielbar. Bitte orientiert euch an anderen ähnlichen Spielen (z.b.: Hubschrauberspiel?). Außerdem kann man aus eurer Skybox hinausfliegen (Skyboxen sollten sich mit den Spielern mitbewegen).
 HDR does not work on all computer
