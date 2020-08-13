@@ -29,3 +29,4 @@ HDR does not work on all computer
 * letting last ring glow in another coler
 * Make game bright
 * remove folder wiki and screenshot from github
+* Add Video
