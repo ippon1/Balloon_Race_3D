@@ -5,6 +5,10 @@ Is a 3D multiplayer racing game.
 * Windows 10
 * // TOOD edit here
 
+## Setup
+* Download Repo
+* Download and link [PhysX](https://developer.nvidia.com/gameworks-physx-overview) 
+
 # Resources
 * [FreeGLUT](http://freeglut.sourceforge.net/)
 * [OpenGL Mathematics](https://glm.g-truc.net)
